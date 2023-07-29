@@ -1,4 +1,4 @@
-<img src="helo.svg" width="300" height="300">
+<img src="helo.svg" width="300" height="300" style="margin: 0 auto;">
 
 # **Por que as coisas são assim?**
 
@@ -152,4 +152,4 @@ Por isso as coisas são assim. São e não são, se transformando junto com a en
 
 Sendo ou não sendo, as “coisas” estão apenas estão acontecendo. Por isso as coisas são assim.
 
-<img src="helo.svg" width="300" height="300">
+<img src="helo.svg" width="300" height="300" style="margin: 0 auto;">
