@@ -1,8 +1,8 @@
-![](helo.svg)
+<img src="helo.svg" width="300" height="300">
 
 # **Por que as coisas são assim?**
 
-### *Discurso do porquê de as coisas não darem certo como gostaríamos.*
+### _Discurso do porquê de as coisas não darem certo como gostaríamos._
 
 Rodrigo Porto de Oliveira Rodrigues
 
@@ -18,9 +18,9 @@ Por esse motivo, não pode ser alterado senão por questões gramaticais para fa
 
 Esse discurso não surge propriamente da pergunta “Por que as coisas são assim?”, mas da indagação “Por que as coisas não dão certo?”, ou “Quando as coisas começarão a dar certo?”. De qualquer forma, considero que o conteúdo presente nele pode responder essas três perguntas.
 
-O discurso pode também ser acessado gratuitamente através do meu  Github e lido através da plataforma de livros parceira, sob condição de contribuição espontânea.
+O discurso pode também ser acessado gratuitamente através do meu Github e lido através da plataforma de livros parceira, sob condição de contribuição espontânea.
 
-Tendo dito isso,  **por que as coisas são assim?**
+Tendo dito isso, **por que as coisas são assim?**
 
 ## **Por que as coisas são assim?**
 
@@ -48,13 +48,13 @@ Porém, sustentamos até os dias atuais classificações que justificam e criam 
 
 Todas essas guerras são criadas pelas intenções e classificações que nossa própria mente cria e transforma. Porque criamos guerras em nossas mentes, criamos guerras “fora” delas. Em um dado momento, todo esse conflito criado pela nossa mente passa a ser um conflito ao nosso redor, em nosso entorno.
 
-Nesse sentido, o conflito identificado ao nosso redor e nas pessoas nada mais é que as consequências  do  conflito  criado  em  nossas  mentes,  sendo  constantemente transformado, difundido e estimulado em todos nós, sem exceções. O conflito visto ao nosso redor é o conjunto de consciências individuais que o perpetuam, mesmo sem saber, através das intenções e ações.
+Nesse sentido, o conflito identificado ao nosso redor e nas pessoas nada mais é que as consequências do conflito criado em nossas mentes, sendo constantemente transformado, difundido e estimulado em todos nós, sem exceções. O conflito visto ao nosso redor é o conjunto de consciências individuais que o perpetuam, mesmo sem saber, através das intenções e ações.
 
-Essas  intenções  e  ações  são  a  causa  e  o  efeito  para  as  classificações  e, consequentemente, os conflitos que criamos. 
+Essas intenções e ações são a causa e o efeito para as classificações e, consequentemente, os conflitos que criamos.
 
 Nesse sentido, essas intenções e ações são movimento e movimento é energia. Por ser energia, ela não pode ser criada ou destruída, apenas transformada. Além disso, é constante, varia de frequência e não existe por si só, independentemente, porque ela transforma e é transformada a todo momento.
 
-Porque somos  seres  de  energia, vivemos, transformamos a nossa existência e a existência dos “outros” seres vivos, nós somos a própria energia se manifestando.
+Porque somos seres de energia, vivemos, transformamos a nossa existência e a existência dos “outros” seres vivos, nós somos a própria energia se manifestando.
 
 Nesse sentido, não morremos. A energia que hoje se materializa fazendo esse discurso não cessa. A forma física, o organismo, o ser vivo que concretiza tal ação cessa, deixa de existir da forma como está habituado. Por sermos seres humanos, estamos suscetíveis, a qualquer momento, a deixarmos de existir como humanos.
 
@@ -62,13 +62,13 @@ No entanto, isso não significa que nós, seres de energia, deixamos de existir.
 
 Porque continuaremos nos transformando, continuaremos a ser materializados de formas de existência infinitas, inifinitamente, como a energia do universo.
 
-Nesse sentido, somos a energia do universo, sem distinções. Nesse sentido, a energia que constantemente transforma e ajudou a criar o mundo como hoje conhecemos é a energia que nós mesmos perpetuamos e transformamos através de nossas ações e intenções enquanto seres humanos, sem distinções. 
+Nesse sentido, somos a energia do universo, sem distinções. Nesse sentido, a energia que constantemente transforma e ajudou a criar o mundo como hoje conhecemos é a energia que nós mesmos perpetuamos e transformamos através de nossas ações e intenções enquanto seres humanos, sem distinções.
 
-Nesse  sentido,  transformamos  nossa  energia  que  materializa  o  nosso  corpo constantemente através das intenções e ações perpetuadas pela nossa mente. As próprias intenções e ações são uma materialização gerada por nossa operação mental, que nos permite continuar transformando ela própria.
+Nesse sentido, transformamos nossa energia que materializa o nosso corpo constantemente através das intenções e ações perpetuadas pela nossa mente. As próprias intenções e ações são uma materialização gerada por nossa operação mental, que nos permite continuar transformando ela própria.
 
 Se temos uma mente – uma operação mental, que constantemente transforma a ela mesma, o corpo que nela reside e o meio em que esse corpo está existindo, ela mesma é a energia transformando todo o universo.
 
-Portanto, nossas próprias mentes, enquanto operações mentais que são capazes de transformar a energia manifestada materialmente nela e em tudo, são capazes de construir,  desconstruir  e  destruir  “coisas”.  Por  “coisas”,  entendem-se  fenômenos manifestados materialmente e portanto suscetíveis a serem lidos como concretos e fixos, e então classificados como “coisas”.
+Portanto, nossas próprias mentes, enquanto operações mentais que são capazes de transformar a energia manifestada materialmente nela e em tudo, são capazes de construir, desconstruir e destruir “coisas”. Por “coisas”, entendem-se fenômenos manifestados materialmente e portanto suscetíveis a serem lidos como concretos e fixos, e então classificados como “coisas”.
 
 Essas “coisas” só existem porque existe uma operação mental que as construiu e as classificou, dando a elas um significado fixo e concreto. Nesse sentido, a identidade que nós criamos, os nomes que nos foram dados e a classificação que nós criamos depois de passarmos a existir como humanos também são “coisas”.
 
@@ -78,15 +78,15 @@ Nesse sentido, sabemos que o que há de material há de morrer um dia.
 
 Ser criado e destruído, nascer e morrer é o destino da matéria. Mesmo a matéria continua. Caso contrário, não estaríamos aqui, manifestados como humanos e dizendo “coisas” como essas.
 
-Porque  somos  capazes  de  construir,  desconstruir  e  destruir  “coisas”,  criamos insatisfações para essas “coisas”. Entendemos que porque uma “coisa” é uma “coisa” e “fulano” é diferente de “cicrano”, entendemos que uma coisa não pode ser “outra coisa” e que “fulano” não é “cicrano”, porque eles não o seriam sem outras “coisas”. Neste momento surge a insatisfação. De fato, “fulano” é diferente de “cicrano”, porque o que faz “fulano” existir como “fulano” é diferente do que faz “cicrano” existir como “cicrano”. Por isso um é diferente do outro. “Cicrano” não consegue não ser diferente de “fulano” porque o que o faz existir como “cicrano” é diferente. As condições as quais “fulano” está submetido a ser classificado como “fulano” são diferentes, por isso não é possível satisfazer a não igualdade entre uma “coisa” e “outra coisa”, entre o próprio “cicrano” e “fulano”.
+Porque somos capazes de construir, desconstruir e destruir “coisas”, criamos insatisfações para essas “coisas”. Entendemos que porque uma “coisa” é uma “coisa” e “fulano” é diferente de “cicrano”, entendemos que uma coisa não pode ser “outra coisa” e que “fulano” não é “cicrano”, porque eles não o seriam sem outras “coisas”. Neste momento surge a insatisfação. De fato, “fulano” é diferente de “cicrano”, porque o que faz “fulano” existir como “fulano” é diferente do que faz “cicrano” existir como “cicrano”. Por isso um é diferente do outro. “Cicrano” não consegue não ser diferente de “fulano” porque o que o faz existir como “cicrano” é diferente. As condições as quais “fulano” está submetido a ser classificado como “fulano” são diferentes, por isso não é possível satisfazer a não igualdade entre uma “coisa” e “outra coisa”, entre o próprio “cicrano” e “fulano”.
 
 Esse é o significado de insatisfação, e ela não é “certa” nem “errada”. É apenas uma insatisfação e uma “coisa” acontecendo.
 
-Nesse sentido, se não é “certa” nem “errada” e é só uma coisa acontecendo, então as “coisas” não são sobre “certo” e “errado” porque, independentemente de “certo” e “errado”,  as  “coisas”  acontecem,  satisfazem  outras  “coisas”  ou  não.
+Nesse sentido, se não é “certa” nem “errada” e é só uma coisa acontecendo, então as “coisas” não são sobre “certo” e “errado” porque, independentemente de “certo” e “errado”, as “coisas” acontecem, satisfazem outras “coisas” ou não.
 
 Nesse sentido, “coisas” que apenas acontecem são fenômenos acontecendo. Fenômenos acontecendo são movimento. Movimento é energia. Energia apenas se transforma.
 
-Porque a energia varia, ela varia através dos fenômenos. Os fenômenos variam porque acontecem  variadamente.  Porque  acontecem  variadamente,  são  classificados variadamente. Porque são classificados variadamente, são interpretados variadamente.
+Porque a energia varia, ela varia através dos fenômenos. Os fenômenos variam porque acontecem variadamente. Porque acontecem variadamente, são classificados variadamente. Porque são classificados variadamente, são interpretados variadamente.
 
 Porque são interpretados e existem variadamente, produzem insatisfação entre si. Essa insatisfação, por sua vez, produz outras insatisfações. A insatisfação é transformada e transforma, porque também é energia.
 
@@ -136,7 +136,7 @@ Para transformarmos nossa existência e a existência de todos os seres vivos em
 
 Isso significa, primeiramente, transformar nossa operação mental, para então transformar nossas intenções e ações, para então transformar a matéria gerada através delas e então colaborar para que outras existências e consciências possam fazer o mesmo para elas mesmas e para as existências que elas compartilharem.
 
-Essa transformação, que permitirá uma existência satisfatória, é a própria compreensão constante em nossa operação mental, que entende tudo e todas as “coisas” como sendo apenas energias se transformando constantemente. 
+Essa transformação, que permitirá uma existência satisfatória, é a própria compreensão constante em nossa operação mental, que entende tudo e todas as “coisas” como sendo apenas energias se transformando constantemente.
 
 Para a mente que entende isso, não há insatisfatório, tristeza, raiva, ódio, apego, ciúme, porque tudo que origina essas coisas são apenas fenômenos acontecendo e energias se transformando.
 
@@ -152,4 +152,4 @@ Por isso as coisas são assim. São e não são, se transformando junto com a en
 
 Sendo ou não sendo, as “coisas” estão apenas estão acontecendo. Por isso as coisas são assim.
 
-![](helo.svg)
+<img src="helo.svg" width="300" height="300">
