@@ -1,17 +1,18 @@
-# **As coisas como são**
+# **Caminhos do sentido**
 
 _Discursos sobre as coisas_
 
 Por Rodrigo Porto de Oliveira Rodrigues.
 
-Por definição, "As coisas como são" é uma série com alguns discursos de como as coisas são em nossas vidas.
-Na realidade, "As coisas como são" e seus discursos são todos uma "coisa", assim como Tudo.
+"Caminhos do sentido" é uma série de discursos que partem da contemplação de fenômenos comuns à nossa vida cotidiana.
 
-Nesse sentido, Um Discurso Parte De Todos, Todos Os Discursos Partem De Um.
+Essa série tem esse nome pois nasce da intenção de trazer sentido para os incontáveis caminhos que percorremos em vida, mesmo que esses caminhos, no final das contas, sejam um só: a vida acontecendo.
 
-Porque todos esses discursos falam sobre uma só "coisa", essa "coisa" pode ser lida como qualquer outra "coisa".
+Isso significa que, mesmo com as diferentes escolhas que fazemos em nossas vidas, todos compartilhamos a mesma fonte, a vida em si.
 
-Minha recomendação pessoal é ler na ordem estabelecida abaixo e considerar essa "coisa" como sendo "angústia existencial". No entanto, pode ser mais interessante querer uma pergunta respondida antes de outra e que essa "coisa" seja um sentimento que **você** entende que atrapalha o **seu** viver. Não há outro critério senão o mais satisfatório ao viver.
+Mesmo com os diferentes sentidos que buscamos em um caminho, todos nós sentimos. Desse sentimento compartilhado partem os "Caminhos do sentido".
+
+Que faça sentido pra você tanto quanto faz pra mim.
 
 Agradeço.
 
